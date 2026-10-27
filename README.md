@@ -52,3 +52,11 @@ Meu objetivo atual é evoluir para posições de **Datacenter e Headend**, combi
 
 - 📧 **E-mail Profissional:** [msilva.tux@proton.me](mailto:msilva.tux@proton.me)
 - 💼 **LinkedIn:** [Mauricio Silva Costa](https://www.linkedin.com/in/mauricio-dev-silva/)
+
+---
+
+## 🐍 Tráfego de Contribuições
+
+<p align="center">
+  <img src="https://github.com/mauriciosilva-tux/mauriciosilva-tux/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
