@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=50&lines=SysAdmin+Linux+%F0%9F%90%A7;Redes+HFC+%26+Telecom+%F0%9F%9F%A1;Foco+em+Datacenter+%26+Headend+%F0%9F%96%A5%EF%B8%8F">
+</p>
+
+---
+
 # Olá! Sou o Mauricio Silva Costa 👋
 
 ### 🛰️ Tecnólogo em Redes de Computadores | Telecom | SysAdmin Linux
